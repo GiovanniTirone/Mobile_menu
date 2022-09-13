@@ -1,0 +1,24 @@
+.menu_div{
+    display: flex;
+
+}
+
+.menu_btn_container{
+    display:grid;
+    grid-template-columns: 100px;
+    border: 1px solid black;
+    background-color: azure;
+}
+
+/*
+.menu_btn{
+
+}
+
+.menu_key_div{
+
+}
+
+.menu_key_button{
+
+}*/
